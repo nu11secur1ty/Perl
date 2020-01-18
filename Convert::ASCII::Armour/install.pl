@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 use warnings;
-use stricts;
+use strict;
 use diagnostics;
 
 our $asc = `cpan -i Convert::ASCII::Armour` . "\n";
