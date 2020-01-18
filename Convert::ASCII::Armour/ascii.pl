@@ -22,6 +22,6 @@ my $message   = $converter->armour(
  
 print "$message\n\n\n";
 
-my $decoded   = $converter->unarmour( $message ) 
+my $decoded   = $converter->unarmour($message) 
                  || die $converter->errstr();
                  print "$decoded\n";
