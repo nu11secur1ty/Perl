@@ -4,4 +4,4 @@ use stricts;
 use diagnostics;
 
 our $asc = `cpan -i Convert::ASCII::Armour` . "\n";
-  print "Ok\n"
+  print "Ok\n";
