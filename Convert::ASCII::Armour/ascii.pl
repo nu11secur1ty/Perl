@@ -20,4 +20,8 @@ my $message   = $converter->armour(
                     Compress => 1,
                 );
  
-print $message; 
+print "$message\n\n\n";
+
+my $decoded   = $converter->unarmour( $message ) 
+                 || die $converter->errstr();
+                 print "$decoded\n";
