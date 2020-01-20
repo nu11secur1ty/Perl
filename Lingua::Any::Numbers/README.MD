@@ -12,6 +12,6 @@ cpan -i Task::Lingua::Any::Numbers
 ```bash 
 cpan --uninstall Task::Lingua::Any::Numbers
 ```
-# Args - user input:
+# Args `(@ARGV is a special variable (see perlvar). You'll find documentation about @ARGV, along with other variables containing 'ARGV', in the "Variables related to filehandles" section.)` - user input:
 
 https://www.perlmonks.org/?node_id=1198238
