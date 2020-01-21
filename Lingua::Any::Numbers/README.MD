@@ -20,7 +20,7 @@ https://www.perlmonks.org/?node_id=1198238
 
 - Libs
 
-```bash
+
 Lingua::AF::Numbers
 Lingua::BG::Numbers
 Lingua::EN::Numbers
@@ -41,7 +41,7 @@ Lingua::ES::Numeros
 Lingua::ID::Nums2Words
 Lingua::NO::Num2Word
 Lingua::PT::Nums2Word
-```
+
 
 # Usage
 ```perl
