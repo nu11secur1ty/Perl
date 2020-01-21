@@ -45,5 +45,5 @@ Lingua::PT::Nums2Word
 
 # Usage
 ```perl
-perl perl peclAny.pl PT
+perl peclAny.pl PT
 ```
