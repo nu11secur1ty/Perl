@@ -22,24 +22,41 @@ https://www.perlmonks.org/?node_id=1198238
 
 
 Lingua::AF::Numbers
+
 Lingua::BG::Numbers
+
 Lingua::EN::Numbers
+
 Lingua::EU::Numbers
+
 Lingua::FR::Numbers
+
 Lingua::HU::Numbers
+
 Lingua::IT::Numbers
+
 Lingua::JA::Numbers
+
 Lingua::NL::Numbers
+
 Lingua::PL::Numbers
+
 Lingua::SV::Numbers
+
 Lingua::TR::Numbers
+
 ~Lingua::ZH::Numbers~
  
 Lingua::CS::Num2Word
+
 Lingua::DE::Num2Word
+
 Lingua::ES::Numeros
+
 Lingua::ID::Nums2Words
+
 Lingua::NO::Num2Word
+
 Lingua::PT::Nums2Word
 
 
