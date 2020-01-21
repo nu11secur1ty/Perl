@@ -42,3 +42,8 @@ Lingua::ID::Nums2Words
 Lingua::NO::Num2Word
 Lingua::PT::Nums2Word
 ```
+
+# Usage
+```perl
+perl perl peclAny.pl PT
+```
