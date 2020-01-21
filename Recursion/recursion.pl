@@ -26,4 +26,5 @@ else
 $a = 5; 
   
 # Function call and printing result after return 
-print "Factorial of a number $a is \n", fact($a);
+print "Factorial of a number $a is ", fact($a);
+print "\n";
