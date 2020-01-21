@@ -33,7 +33,7 @@ Lingua::NL::Numbers
 Lingua::PL::Numbers
 Lingua::SV::Numbers
 Lingua::TR::Numbers
-Lingua::ZH::Numbers
+~~Lingua::ZH::Numbers~~
  
 Lingua::CS::Num2Word
 Lingua::DE::Num2Word
