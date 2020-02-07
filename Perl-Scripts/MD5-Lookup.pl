@@ -1,7 +1,6 @@
 ﻿#!/usr/bin/perl
 # md5 lookup
-# Coded by: Saime
-# Website: http://saime.biz
+
 use LWP::UserAgent;
 use HTTP::Cookies;
 print "[+] MD5 Lookup Tool\n";
