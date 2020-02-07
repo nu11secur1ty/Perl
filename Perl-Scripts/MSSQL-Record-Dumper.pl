@@ -4,7 +4,7 @@ use LWP::UserAgent;
 print "\n                  -----------------------------                  ";
 print "\n                        MSSQL Dumper v0.1.1                      ";
 print "\n                            ALPHA                                ";
-print "\n                    By Illuminatus for h4cky0u                   ";
+print "\n                                                                 ";
 print "\n                  -----------------------------                  ";
 print "\n";
 
