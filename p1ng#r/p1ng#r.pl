@@ -5,5 +5,5 @@ use warnings;
 use diagnostics;
 
 my $site = $ARGV[0];   # give the website
-  my $action = `ping $site`;
-print "$action\n";
+  my $action = `ping -c 4 $site`;
+print "$site\n$action\n";
