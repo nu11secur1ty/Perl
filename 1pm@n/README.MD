@@ -1,1 +1,1 @@
-# 1pm@n is an IP generator program
+# 1pm@n is an IP generating program
