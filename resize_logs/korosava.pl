@@ -7,9 +7,8 @@
 #CHANGE PATH AND PREFERED FILE TYPE AND SIZE IN MB( NO FLOAT )
 our @files = </home/user/path/toyour/logs/*>;
 trimFiles('log',5);
+
 #CHANGE PATH AND PREFERED FILE TYPE AND SIZE IN MB( NO FLOAT )
-
-
 sub trimFiles {
     my $typePre = $_[0];
     my $sizePre = $_[1];
