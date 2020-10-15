@@ -5,7 +5,7 @@
  use POSIX; #includes floor , ceil
 
 #CHANGE PATH AND PREFERED FILE TYPE AND SIZE IN MB( NO FLOAT )
-our @files = </home/bannerblue/web/htdocs/prodlogs/*>;
+our @files = </home/user/path/toyour/logs/*>;
 trimFiles('log',5);
 #CHANGE PATH AND PREFERED FILE TYPE AND SIZE IN MB( NO FLOAT )
 
