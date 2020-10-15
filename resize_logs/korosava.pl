@@ -16,7 +16,10 @@ sub trimFiles {
     my $count;
     my @arr_file;
     for (my $i = 0; $i < scalar @files; $i++) {
+        
+        # If you want to see the operation and files which it processing
         # print "$files[$i]\n";
+        
         my @small_arr = split /[\/.]+/, $files[$i];
         if($small_arr[-1] eq $typePre){
             $size = floor((-s $files[$i])/1000000);
