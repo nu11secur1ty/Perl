@@ -5,6 +5,7 @@ use warnings;
 use diagnostics;
 use Term::ANSIColor;
 
+# You can use the (jk) file to fetch the information directly on your SIEM monitoring System
 my $journal = `journalctl -r --no-pager > jk && cat jk | grep ssh`;
 my $journal_login = `journalctl -r --no-pager > jk && cat jk | grep login`;
 print "\n";
