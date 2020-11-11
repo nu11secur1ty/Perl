@@ -4,6 +4,7 @@
 
 - - - Usage:
 1. Put the program somewhere there you want to working for you
+- Example: on your `server` or on your `client`
 2. Create a `cronjob` and describe where you want to sending this content from `jk` output file for you
 3. Test your already incoming content from the `jk` file, of your monitoring system
 
