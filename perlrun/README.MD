@@ -7,7 +7,7 @@ I <3 Perl ;) For more information, please visit here ;)
 
   [1]: https://www.freebsd.org/cgi/man.cgi?query=perlrun&sektion=1&apropos=0&manpath=redhat
 
-[perlrun_docs]()][2]
+[perlrun_docs()][2]
 
   [2]: https://perldoc.perl.org/perlrun
   
