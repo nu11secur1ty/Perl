@@ -6,14 +6,15 @@ usage and test
 
 ## 2 
 -  Run the program
-
+```perl
+perl C:\Users\nu11secur1ty\Desktop\product>perl 00p.pl
+```
 ## 3 
 -  The output
    
    - - - For windows:
 
 ```perl
-C:\Users\nu11secur1ty\Desktop\product>perl 00p.pl
 Serial: 100
 Name: iPhone
 Price: 650USD
