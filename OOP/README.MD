@@ -1,11 +1,14 @@
 [READ](https://www.perltutorial.org/perl-oop/)
 
 usage and test
-1 - Download the `product.pm` module to `C:\Strawberry\perl\site\lib` for Windows
+## 1 
+- Download the `product.pm` module to `C:\Strawberry\perl\site\lib` for Windows
 
-2 -  Run the program
+## 2 
+-  Run the program
 
-3 -  The output
+## 3 
+-  The output
    
    - - - For windows:
 
