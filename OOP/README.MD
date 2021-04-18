@@ -2,9 +2,13 @@
 
 usage and test
 1 - . Download the `product.pm` module to `C:\Strawberry\perl\site\lib` for Windows
+
 2 - . Run the program
+
 3 - . The output
+   
    - - - For windows:
+
 ```perl
 C:\Users\nu11secur1ty\Desktop\product>perl 00p.pl
 Serial: 100
