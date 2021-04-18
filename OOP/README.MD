@@ -21,8 +21,6 @@ Price: 650USD
 Serial: 101
 Name: Nexus
 Price: 299USD
-
-C:\Users\nu11secur1ty\Desktop\product>
 ```
 
 ## BR @nu11secur1ty
