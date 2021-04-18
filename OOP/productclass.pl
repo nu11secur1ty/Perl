@@ -8,3 +8,4 @@ my $iphone = Product->new({
                           serial =>"100",
                           name => "iPhone 5", 
                   price => 650.00});
+print "$iphone\n";
