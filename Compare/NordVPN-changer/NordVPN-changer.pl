@@ -55,4 +55,3 @@ elsif($output  == 1)
     print "Now your IP is: $Str2\n";
 
 }
-v
