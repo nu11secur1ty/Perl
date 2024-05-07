@@ -7,6 +7,7 @@ use diagnostics;
 # Environment
 # Your current ENV IP($Str1) 
 my $Str1 = "0.0.0.0";
+# Check the IP
 my $Str2 = `curl ifconfig.co`;
 
 # After checking the IP the curl process will be killed, this is a prevention against clogged MTU channel, if it is!
