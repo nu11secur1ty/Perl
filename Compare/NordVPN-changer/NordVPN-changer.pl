@@ -11,7 +11,7 @@ my $Str2 = `curl ifconfig.co`;
 
 # After checking the IP the curl process will be killed, this is a prevention against clogged MTU channel, if it is!
 sleep 7;
-# Stopper script(curl_killer.sh)
+# Curl Stopper script(curl_killer.sh)
 my $time_check = `bash curl_killer.sh`;
 print "Your IP checking is finished!\n";
 
