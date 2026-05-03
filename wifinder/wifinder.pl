@@ -3,7 +3,7 @@ use warnings;
 use Win32;
 use Encode qw(decode);
 
-# nu11secur1ty
+# Model name: nu11secur1tyAI
 
 sub is_admin {
     # Returns 1 if admin, 0 otherwise
